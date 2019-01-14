@@ -38,7 +38,7 @@ Kamus also help to build applications that are "resilient, manageable, and obser
 
 *External Dependencies:*
 
-Kamus composed from multiple components. The full component list can be found [here](https://drive.google.com/file/d/1JYMGSdvM530Akross_YF7v8BqndKMr8_/view?usp=sharing).
+Kamus composed from multiple components. The full component list can be found here: https://drive.google.com/file/d/1JYMGSdvM530Akross_YF7v8BqndKMr8_/view?usp=sharing.
 These are all the licenses used by all the components:
 * AFL-2.1
 * Apache-2.0
