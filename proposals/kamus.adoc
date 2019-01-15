@@ -9,7 +9,8 @@ Kamus solve the hard problem of secrets management.
 Every application requires a secret (client secret, token, API key, certificate etc).
 These secret are highly sensitive and should be stored securely.
 These secrets also need to pass from the developer machine (who creates them) to the application running in production.
-There is no good solution for this problem on Kubernetes platform - each one of the existing solutions has it's own drawbacks.
+This is why there is a need for a solution that allows developers to automatically deploy these secrets, in a secure and robust manner. 
+The existing solutions to this problem (including Kubernetes native secret solutions) are in perfect, either from security or usability point of view.
 
 Kamus solve this problem, by encrypting a secret for a specific application. 
 Anyone can encrypt a secret, but only this specific application can decrypt it. 
